@@ -1,0 +1,201 @@
+id,event_name,event_type,department,year_of_study,age,rating,satisfaction_score,feedback,suggestions
+1,AI Workshop,Cultural,CSE,3rd Year,23,3,79,"Event started late, timing should be improved.",Include more fun activities.
+2,Tech Fest,Academic,Civil,4th Year,24,2,77,"Event started late, timing should be improved.",Include more fun activities.
+3,AI Workshop,Sports,IT,3rd Year,22,3,98,"Event started late, timing should be improved.",Add more food stalls.
+4,Hackathon,Entertainment,ECE,3rd Year,22,5,63,Loved the activities! Had a great time.,Add more food stalls.
+5,Freshers Party,Academic,ECE,1st Year,19,4,42,Scheduling was smooth; had a really good time.,Make events more interactive.
+6,AI Workshop,Cultural,BBA,2nd Year,18,4,56,Audio quality was poor but overall enjoyable.,Improve seating arrangement.
+7,Freshers Party,Entertainment,Civil,4th Year,17,4,86,The host was engaging and the event was fun.,Include more fun activities.
+8,Guest Lecture,Entertainment,IT,4th Year,17,5,53,Speakers were inspiring and knowledgeable.,Make events more interactive.
+9,Tech Fest,Entertainment,Mechanical,2nd Year,19,3,86,Lighting and stage setup were impressive.,Better sound system needed.
+10,Sports Meet,Academic,BCA,2nd Year,23,2,97,Good experience but seating arrangement needs improvement.,Make events more interactive.
+11,Tech Fest,Sports,Civil,4th Year,21,4,92,"Too crowded, management needs to improve.",Make events more interactive.
+12,AI Workshop,Sports,BCA,2nd Year,19,3,74,Scheduling was smooth; had a really good time.,Better sound system needed.
+13,Sports Meet,Sports,IT,4th Year,21,4,51,Food stalls were great and affordable.,Improve seating arrangement.
+14,Freshers Party,Technical,ECE,1st Year,17,4,61,The host was engaging and the event was fun.,Improve seating arrangement.
+15,Hackathon,Technical,BCA,2nd Year,17,1,84,Food stalls were great and affordable.,Make events more interactive.
+16,Sports Meet,Technical,Management,3rd Year,20,3,86,Loved the activities! Had a great time.,Include more fun activities.
+17,Cultural Night,Entertainment,BBA,2nd Year,21,4,76,Speakers were inspiring and knowledgeable.,Start the event on time.
+18,Freshers Party,Cultural,Management,3rd Year,21,5,55,Lighting and stage setup were impressive.,Provide shaded areas for outdoor events.
+19,Tech Fest,Entertainment,ECE,1st Year,17,4,97,"Too crowded, management needs to improve.",Increase volunteer support.
+20,Hackathon,Technical,BCA,1st Year,20,3,40,Speakers were inspiring and knowledgeable.,Better sound system needed.
+21,AI Workshop,Sports,Civil,2nd Year,20,4,63,"Too crowded, management needs to improve.",Improve seating arrangement.
+22,Freshers Party,Academic,ECE,1st Year,20,4,48,Amazing event! Very well organized.,Increase volunteer support.
+23,Freshers Party,Cultural,ECE,4th Year,24,5,92,Food stalls were great and affordable.,Start the event on time.
+24,Cultural Night,Cultural,IT,2nd Year,23,1,97,The host was engaging and the event was fun.,Better sound system needed.
+25,Tech Fest,Technical,BBA,1st Year,18,3,58,Speakers were inspiring and knowledgeable.,Include more fun activities.
+26,Freshers Party,Sports,Civil,1st Year,18,5,61,Amazing event! Very well organized.,Include more fun activities.
+27,AI Workshop,Academic,Management,2nd Year,18,5,70,Food stalls were great and affordable.,Include more fun activities.
+28,Annual Day,Academic,BCA,3rd Year,17,4,78,Lighting and stage setup were impressive.,Start the event on time.
+29,Cultural Night,Academic,ECE,2nd Year,21,2,76,Food stalls were great and affordable.,Make events more interactive.
+30,Sports Meet,Academic,Civil,2nd Year,19,1,57,"Too crowded, management needs to improve.",Make events more interactive.
+31,Guest Lecture,Sports,Mechanical,2nd Year,23,4,55,Amazing event! Very well organized.,Make events more interactive.
+32,Annual Day,Academic,Civil,2nd Year,19,4,87,Speakers were inspiring and knowledgeable.,Include more fun activities.
+33,Tech Fest,Sports,Management,4th Year,17,3,79,Audio quality was poor but overall enjoyable.,Start the event on time.
+34,Sports Meet,Cultural,CSE,4th Year,18,2,65,Good experience but seating arrangement needs improvement.,Start the event on time.
+35,Sports Meet,Entertainment,BCA,1st Year,19,3,60,Volunteers were helpful and polite.,Include more fun activities.
+36,Guest Lecture,Entertainment,Mechanical,3rd Year,18,4,55,Food stalls were great and affordable.,Include more fun activities.
+37,Cultural Night,Entertainment,Civil,1st Year,20,1,100,Scheduling was smooth; had a really good time.,Improve seating arrangement.
+38,Annual Day,Entertainment,BBA,2nd Year,18,4,95,The host was engaging and the event was fun.,Better sound system needed.
+39,Hackathon,Entertainment,Civil,3rd Year,23,3,47,Amazing event! Very well organized.,Start the event on time.
+40,Cultural Night,Sports,Civil,3rd Year,22,2,80,Speakers were inspiring and knowledgeable.,Improve seating arrangement.
+41,Sports Meet,Sports,Civil,2nd Year,23,5,99,Audio quality was poor but overall enjoyable.,Include more fun activities.
+42,Tech Fest,Academic,CSE,2nd Year,22,2,71,Amazing event! Very well organized.,Make events more interactive.
+43,Sports Meet,Cultural,Civil,1st Year,20,4,99,Good experience but seating arrangement needs improvement.,Start the event on time.
+44,Sports Meet,Technical,Mechanical,2nd Year,23,1,45,The host was engaging and the event was fun.,Better sound system needed.
+45,Sports Meet,Sports,Mechanical,4th Year,23,5,93,Speakers were inspiring and knowledgeable.,Provide shaded areas for outdoor events.
+46,Annual Day,Sports,ECE,1st Year,20,5,55,The host was engaging and the event was fun.,Improve seating arrangement.
+47,Hackathon,Cultural,Management,1st Year,18,3,55,Audio quality was poor but overall enjoyable.,Increase volunteer support.
+48,Freshers Party,Cultural,Civil,2nd Year,19,5,86,The host was engaging and the event was fun.,Increase volunteer support.
+49,Annual Day,Technical,IT,4th Year,21,5,76,Speakers were inspiring and knowledgeable.,Add more food stalls.
+50,Freshers Party,Cultural,BCA,2nd Year,19,5,48,Lighting and stage setup were impressive.,Increase volunteer support.
+51,AI Workshop,Entertainment,BCA,2nd Year,19,1,58,Food stalls were great and affordable.,Provide shaded areas for outdoor events.
+52,Freshers Party,Technical,IT,2nd Year,23,4,89,Food stalls were great and affordable.,Improve seating arrangement.
+53,Freshers Party,Academic,Mechanical,1st Year,21,4,70,Scheduling was smooth; had a really good time.,Add more food stalls.
+54,Tech Fest,Academic,Mechanical,3rd Year,23,2,49,"Too crowded, management needs to improve.",Provide shaded areas for outdoor events.
+55,Hackathon,Sports,BCA,2nd Year,23,2,79,Amazing event! Very well organized.,Better sound system needed.
+56,Hackathon,Entertainment,BBA,1st Year,18,3,67,Audio quality was poor but overall enjoyable.,Start the event on time.
+57,Guest Lecture,Cultural,Civil,4th Year,22,5,52,"Too crowded, management needs to improve.",Make events more interactive.
+58,Hackathon,Entertainment,Civil,4th Year,21,4,48,"Too crowded, management needs to improve.",Include more fun activities.
+59,Sports Meet,Academic,IT,1st Year,24,2,80,Audio quality was poor but overall enjoyable.,Make events more interactive.
+60,Tech Fest,Cultural,Civil,4th Year,18,4,60,Amazing event! Very well organized.,Provide shaded areas for outdoor events.
+61,Freshers Party,Entertainment,CSE,2nd Year,17,4,76,"Too crowded, management needs to improve.",Include more fun activities.
+62,Sports Meet,Cultural,CSE,2nd Year,24,3,98,Food stalls were great and affordable.,Make events more interactive.
+63,Tech Fest,Entertainment,BBA,1st Year,22,4,96,"Event started late, timing should be improved.",Improve seating arrangement.
+64,Cultural Night,Academic,Civil,3rd Year,24,3,41,Scheduling was smooth; had a really good time.,Start the event on time.
+65,Freshers Party,Entertainment,IT,3rd Year,23,2,86,Amazing event! Very well organized.,Better sound system needed.
+66,Guest Lecture,Sports,CSE,1st Year,23,1,79,Speakers were inspiring and knowledgeable.,Increase volunteer support.
+67,Annual Day,Cultural,Mechanical,3rd Year,20,2,42,The host was engaging and the event was fun.,Increase volunteer support.
+68,Tech Fest,Academic,Civil,1st Year,18,5,40,"Too crowded, management needs to improve.",Start the event on time.
+69,Freshers Party,Technical,IT,2nd Year,19,3,62,Speakers were inspiring and knowledgeable.,Increase volunteer support.
+70,Hackathon,Academic,ECE,2nd Year,19,2,95,Scheduling was smooth; had a really good time.,Increase volunteer support.
+71,Annual Day,Academic,BCA,4th Year,23,5,98,Audio quality was poor but overall enjoyable.,Improve seating arrangement.
+72,Freshers Party,Sports,CSE,4th Year,22,3,72,Amazing event! Very well organized.,Start the event on time.
+73,Sports Meet,Sports,Management,1st Year,23,1,100,The host was engaging and the event was fun.,Add more food stalls.
+74,Freshers Party,Technical,IT,2nd Year,24,3,40,Volunteers were helpful and polite.,Add more food stalls.
+75,Tech Fest,Academic,IT,4th Year,24,2,67,Speakers were inspiring and knowledgeable.,Make events more interactive.
+76,Cultural Night,Sports,CSE,2nd Year,24,5,76,Amazing event! Very well organized.,Add more food stalls.
+77,AI Workshop,Academic,ECE,2nd Year,20,5,55,Loved the activities! Had a great time.,Include more fun activities.
+78,Guest Lecture,Entertainment,IT,1st Year,22,5,86,Loved the activities! Had a great time.,Add more food stalls.
+79,Cultural Night,Technical,Civil,4th Year,23,4,42,Good experience but seating arrangement needs improvement.,Better sound system needed.
+80,AI Workshop,Entertainment,BBA,3rd Year,17,4,59,Amazing event! Very well organized.,Better sound system needed.
+81,Guest Lecture,Sports,Civil,3rd Year,17,1,41,Loved the activities! Had a great time.,Provide shaded areas for outdoor events.
+82,Annual Day,Technical,IT,2nd Year,19,3,89,Audio quality was poor but overall enjoyable.,Better sound system needed.
+83,Annual Day,Entertainment,Civil,4th Year,23,4,51,Food stalls were great and affordable.,Add more food stalls.
+84,Freshers Party,Technical,BCA,4th Year,21,5,99,Audio quality was poor but overall enjoyable.,Include more fun activities.
+85,Hackathon,Academic,ECE,1st Year,22,1,89,Amazing event! Very well organized.,Start the event on time.
+86,Guest Lecture,Technical,Mechanical,1st Year,22,5,74,Audio quality was poor but overall enjoyable.,Increase volunteer support.
+87,Freshers Party,Entertainment,ECE,1st Year,23,1,84,Volunteers were helpful and polite.,Provide shaded areas for outdoor events.
+88,AI Workshop,Entertainment,Management,1st Year,23,1,95,Good experience but seating arrangement needs improvement.,Improve seating arrangement.
+89,Freshers Party,Academic,Civil,1st Year,17,1,72,"Event started late, timing should be improved.",Improve seating arrangement.
+90,Freshers Party,Entertainment,BCA,2nd Year,21,1,99,Audio quality was poor but overall enjoyable.,Increase volunteer support.
+91,Annual Day,Cultural,Management,4th Year,20,5,53,"Event started late, timing should be improved.",Add more food stalls.
+92,Hackathon,Cultural,CSE,4th Year,18,5,86,Good experience but seating arrangement needs improvement.,Better sound system needed.
+93,Tech Fest,Cultural,ECE,3rd Year,19,5,45,"Event started late, timing should be improved.",Increase volunteer support.
+94,Sports Meet,Cultural,BCA,1st Year,17,1,89,Audio quality was poor but overall enjoyable.,Better sound system needed.
+95,Sports Meet,Entertainment,Mechanical,1st Year,17,5,76,Good experience but seating arrangement needs improvement.,Add more food stalls.
+96,AI Workshop,Academic,ECE,3rd Year,21,1,96,Amazing event! Very well organized.,Include more fun activities.
+97,Tech Fest,Entertainment,BBA,2nd Year,23,2,59,Good experience but seating arrangement needs improvement.,Include more fun activities.
+98,Annual Day,Sports,CSE,3rd Year,17,2,97,Amazing event! Very well organized.,Make events more interactive.
+99,AI Workshop,Technical,Civil,4th Year,19,4,89,Amazing event! Very well organized.,Include more fun activities.
+100,Annual Day,Sports,Management,3rd Year,20,1,78,Loved the activities! Had a great time.,Better sound system needed.
+101,Cultural Night,Academic,Mechanical,2nd Year,24,4,42,Good experience but seating arrangement needs improvement.,Increase volunteer support.
+102,Cultural Night,Sports,BCA,4th Year,21,5,59,Audio quality was poor but overall enjoyable.,Provide shaded areas for outdoor events.
+103,Tech Fest,Technical,Mechanical,1st Year,22,3,67,Amazing event! Very well organized.,Make events more interactive.
+104,Sports Meet,Technical,CSE,4th Year,19,2,71,"Too crowded, management needs to improve.",Increase volunteer support.
+105,Tech Fest,Entertainment,Mechanical,2nd Year,21,1,43,Loved the activities! Had a great time.,Improve seating arrangement.
+106,Tech Fest,Academic,BCA,4th Year,24,4,69,Scheduling was smooth; had a really good time.,Improve seating arrangement.
+107,Tech Fest,Academic,Management,3rd Year,20,1,58,Good experience but seating arrangement needs improvement.,Include more fun activities.
+108,Hackathon,Sports,Management,1st Year,23,2,97,"Event started late, timing should be improved.",Increase volunteer support.
+109,Cultural Night,Entertainment,CSE,3rd Year,24,5,41,"Too crowded, management needs to improve.",Include more fun activities.
+110,AI Workshop,Academic,Civil,3rd Year,24,2,58,Loved the activities! Had a great time.,Better sound system needed.
+111,Cultural Night,Sports,ECE,4th Year,19,1,71,Good experience but seating arrangement needs improvement.,Include more fun activities.
+112,Freshers Party,Cultural,Civil,4th Year,19,5,96,Scheduling was smooth; had a really good time.,Better sound system needed.
+113,Tech Fest,Cultural,BCA,4th Year,21,4,71,Lighting and stage setup were impressive.,Provide shaded areas for outdoor events.
+114,Annual Day,Technical,CSE,1st Year,24,5,64,Lighting and stage setup were impressive.,Increase volunteer support.
+115,Freshers Party,Cultural,ECE,2nd Year,22,2,83,Speakers were inspiring and knowledgeable.,Provide shaded areas for outdoor events.
+116,Annual Day,Technical,CSE,4th Year,24,2,81,Amazing event! Very well organized.,Start the event on time.
+117,AI Workshop,Academic,IT,2nd Year,21,1,49,Speakers were inspiring and knowledgeable.,Start the event on time.
+118,Tech Fest,Technical,ECE,4th Year,22,5,68,The host was engaging and the event was fun.,Include more fun activities.
+119,Sports Meet,Cultural,CSE,3rd Year,17,1,55,"Too crowded, management needs to improve.",Include more fun activities.
+120,AI Workshop,Sports,CSE,4th Year,18,5,94,Loved the activities! Had a great time.,Include more fun activities.
+121,Cultural Night,Cultural,CSE,1st Year,22,1,47,Volunteers were helpful and polite.,Add more food stalls.
+122,Annual Day,Entertainment,Management,4th Year,20,3,58,The host was engaging and the event was fun.,Add more food stalls.
+123,Annual Day,Academic,Civil,1st Year,19,5,64,"Too crowded, management needs to improve.",Better sound system needed.
+124,AI Workshop,Sports,ECE,3rd Year,23,4,96,Lighting and stage setup were impressive.,Add more food stalls.
+125,Annual Day,Academic,BCA,2nd Year,24,4,47,Amazing event! Very well organized.,Better sound system needed.
+126,Tech Fest,Entertainment,BBA,4th Year,19,3,85,"Too crowded, management needs to improve.",Better sound system needed.
+127,Guest Lecture,Sports,IT,4th Year,24,3,62,"Event started late, timing should be improved.",Add more food stalls.
+128,AI Workshop,Technical,CSE,3rd Year,22,4,94,Audio quality was poor but overall enjoyable.,Improve seating arrangement.
+129,Tech Fest,Technical,Management,1st Year,22,5,60,Scheduling was smooth; had a really good time.,Include more fun activities.
+130,Tech Fest,Entertainment,ECE,2nd Year,17,5,79,Volunteers were helpful and polite.,Add more food stalls.
+131,Sports Meet,Technical,BBA,1st Year,19,1,61,Scheduling was smooth; had a really good time.,Add more food stalls.
+132,Tech Fest,Academic,Mechanical,1st Year,18,5,92,"Too crowded, management needs to improve.",Improve seating arrangement.
+133,Tech Fest,Cultural,IT,3rd Year,18,2,41,The host was engaging and the event was fun.,Add more food stalls.
+134,Cultural Night,Technical,IT,2nd Year,22,1,52,Volunteers were helpful and polite.,Include more fun activities.
+135,AI Workshop,Sports,BBA,2nd Year,24,1,73,Scheduling was smooth; had a really good time.,Increase volunteer support.
+136,Hackathon,Technical,ECE,2nd Year,20,1,84,Food stalls were great and affordable.,Better sound system needed.
+137,Tech Fest,Cultural,Civil,3rd Year,17,1,63,Good experience but seating arrangement needs improvement.,Include more fun activities.
+138,Freshers Party,Academic,BCA,3rd Year,20,3,41,Amazing event! Very well organized.,Include more fun activities.
+139,Annual Day,Sports,BBA,1st Year,22,2,69,Scheduling was smooth; had a really good time.,Make events more interactive.
+140,AI Workshop,Academic,Civil,4th Year,21,5,56,Volunteers were helpful and polite.,Provide shaded areas for outdoor events.
+141,Annual Day,Academic,BCA,1st Year,22,3,68,Volunteers were helpful and polite.,Start the event on time.
+142,Annual Day,Academic,Mechanical,2nd Year,18,2,46,Food stalls were great and affordable.,Increase volunteer support.
+143,Freshers Party,Sports,Management,2nd Year,19,3,97,Speakers were inspiring and knowledgeable.,Improve seating arrangement.
+144,Sports Meet,Entertainment,CSE,1st Year,23,5,82,"Too crowded, management needs to improve.",Increase volunteer support.
+145,Sports Meet,Academic,Mechanical,4th Year,17,4,41,"Event started late, timing should be improved.",Add more food stalls.
+146,Guest Lecture,Academic,Management,2nd Year,18,4,87,"Event started late, timing should be improved.",Better sound system needed.
+147,Freshers Party,Cultural,ECE,1st Year,22,1,43,Loved the activities! Had a great time.,Add more food stalls.
+148,Cultural Night,Entertainment,BBA,3rd Year,18,4,91,The host was engaging and the event was fun.,Better sound system needed.
+149,Hackathon,Technical,BBA,4th Year,20,1,85,Loved the activities! Had a great time.,Include more fun activities.
+150,Guest Lecture,Entertainment,Civil,2nd Year,18,2,92,Lighting and stage setup were impressive.,Include more fun activities.
+151,Annual Day,Academic,IT,4th Year,18,3,76,"Event started late, timing should be improved.",Start the event on time.
+152,Sports Meet,Academic,CSE,2nd Year,20,5,51,Scheduling was smooth; had a really good time.,Provide shaded areas for outdoor events.
+153,Freshers Party,Cultural,ECE,1st Year,20,5,75,Loved the activities! Had a great time.,Improve seating arrangement.
+154,Freshers Party,Cultural,Civil,3rd Year,24,3,93,Lighting and stage setup were impressive.,Add more food stalls.
+155,Sports Meet,Academic,IT,1st Year,24,2,74,Lighting and stage setup were impressive.,Improve seating arrangement.
+156,Tech Fest,Cultural,CSE,4th Year,21,3,68,Speakers were inspiring and knowledgeable.,Better sound system needed.
+157,Tech Fest,Cultural,Management,2nd Year,21,5,74,"Too crowded, management needs to improve.",Start the event on time.
+158,Cultural Night,Technical,BBA,3rd Year,24,5,78,Scheduling was smooth; had a really good time.,Increase volunteer support.
+159,AI Workshop,Sports,ECE,1st Year,22,4,68,Lighting and stage setup were impressive.,Add more food stalls.
+160,AI Workshop,Academic,Civil,3rd Year,18,2,65,"Event started late, timing should be improved.",Increase volunteer support.
+161,Guest Lecture,Cultural,Civil,1st Year,17,1,69,Good experience but seating arrangement needs improvement.,Better sound system needed.
+162,AI Workshop,Entertainment,BCA,1st Year,24,3,79,"Event started late, timing should be improved.",Start the event on time.
+163,Tech Fest,Sports,Management,3rd Year,18,5,74,Loved the activities! Had a great time.,Include more fun activities.
+164,Cultural Night,Sports,BCA,2nd Year,17,3,74,Scheduling was smooth; had a really good time.,Better sound system needed.
+165,Hackathon,Academic,Civil,1st Year,24,2,45,Speakers were inspiring and knowledgeable.,Add more food stalls.
+166,Sports Meet,Academic,Mechanical,3rd Year,19,3,86,Good experience but seating arrangement needs improvement.,Add more food stalls.
+167,Freshers Party,Sports,BCA,1st Year,24,2,79,Amazing event! Very well organized.,Increase volunteer support.
+168,Guest Lecture,Academic,Management,3rd Year,19,2,97,Loved the activities! Had a great time.,Include more fun activities.
+169,Hackathon,Cultural,Management,1st Year,19,2,44,"Too crowded, management needs to improve.",Increase volunteer support.
+170,AI Workshop,Academic,Management,1st Year,21,2,66,The host was engaging and the event was fun.,Better sound system needed.
+171,Cultural Night,Academic,IT,1st Year,17,2,84,Speakers were inspiring and knowledgeable.,Make events more interactive.
+172,Tech Fest,Academic,ECE,3rd Year,22,1,84,Scheduling was smooth; had a really good time.,Add more food stalls.
+173,Freshers Party,Entertainment,Mechanical,4th Year,22,4,52,"Too crowded, management needs to improve.",Better sound system needed.
+174,Sports Meet,Entertainment,CSE,2nd Year,22,5,90,"Too crowded, management needs to improve.",Provide shaded areas for outdoor events.
+175,Tech Fest,Academic,IT,3rd Year,17,2,73,Amazing event! Very well organized.,Include more fun activities.
+176,Annual Day,Technical,IT,1st Year,17,4,94,"Event started late, timing should be improved.",Make events more interactive.
+177,Hackathon,Sports,BCA,2nd Year,23,1,58,Food stalls were great and affordable.,Better sound system needed.
+178,AI Workshop,Cultural,ECE,2nd Year,21,2,83,Speakers were inspiring and knowledgeable.,Increase volunteer support.
+179,Sports Meet,Technical,BBA,3rd Year,21,4,56,Good experience but seating arrangement needs improvement.,Start the event on time.
+180,Annual Day,Entertainment,CSE,3rd Year,20,5,42,"Too crowded, management needs to improve.",Add more food stalls.
+181,Annual Day,Cultural,BBA,4th Year,17,1,80,Food stalls were great and affordable.,Make events more interactive.
+182,Guest Lecture,Entertainment,Civil,1st Year,24,1,42,The host was engaging and the event was fun.,Include more fun activities.
+183,Hackathon,Academic,BBA,3rd Year,20,2,66,"Too crowded, management needs to improve.",Improve seating arrangement.
+184,Freshers Party,Technical,BCA,1st Year,22,2,40,Volunteers were helpful and polite.,Add more food stalls.
+185,Hackathon,Sports,ECE,1st Year,23,5,68,Speakers were inspiring and knowledgeable.,Start the event on time.
+186,Sports Meet,Sports,Management,1st Year,23,3,54,Scheduling was smooth; had a really good time.,Improve seating arrangement.
+187,Tech Fest,Sports,Civil,3rd Year,21,4,95,The host was engaging and the event was fun.,Provide shaded areas for outdoor events.
+188,AI Workshop,Sports,Civil,3rd Year,18,2,86,Lighting and stage setup were impressive.,Make events more interactive.
+189,Annual Day,Cultural,Management,2nd Year,18,4,44,Lighting and stage setup were impressive.,Provide shaded areas for outdoor events.
+190,Tech Fest,Technical,IT,2nd Year,24,2,40,"Too crowded, management needs to improve.",Start the event on time.
+191,Annual Day,Entertainment,BBA,2nd Year,23,3,97,Good experience but seating arrangement needs improvement.,Provide shaded areas for outdoor events.
+192,Tech Fest,Academic,Civil,4th Year,23,1,58,Volunteers were helpful and polite.,Make events more interactive.
+193,Guest Lecture,Sports,Civil,2nd Year,22,5,66,Scheduling was smooth; had a really good time.,Include more fun activities.
+194,Sports Meet,Sports,Management,2nd Year,18,3,43,Amazing event! Very well organized.,Include more fun activities.
+195,AI Workshop,Sports,BCA,4th Year,17,1,81,Speakers were inspiring and knowledgeable.,Provide shaded areas for outdoor events.
+196,Annual Day,Cultural,Civil,4th Year,18,4,67,Food stalls were great and affordable.,Start the event on time.
+197,AI Workshop,Sports,IT,4th Year,19,4,53,Food stalls were great and affordable.,Improve seating arrangement.
+198,Tech Fest,Technical,CSE,2nd Year,17,3,91,Volunteers were helpful and polite.,Better sound system needed.
+199,Sports Meet,Academic,BCA,3rd Year,20,5,83,"Too crowded, management needs to improve.",Improve seating arrangement.
+200,Guest Lecture,Sports,IT,4th Year,17,3,88,"Event started late, timing should be improved.",Make events more interactive.
