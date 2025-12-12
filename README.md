@@ -48,9 +48,9 @@ Suggestions
 
 <img src="images/event_type_bar.png" width="600">
 
-⭐ Department-wise Responses
+⭐ Overall Satisfaction Distribution
 
-<img src="images/department_bar.png" width="600">
+<img src="images/Overall Satisfaction Distribution.png" width="600">
 
 ⭐ WordCloud (Positive Feedback)
 
