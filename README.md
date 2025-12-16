@@ -1,3 +1,17 @@
+## 📌 Internship Projects (Future Interns)
+
+This internship consisted of **three project-based tasks**:
+
+### 🔹 Task 1: Business Sales Dashboard
+🔗 https://github.com/Vish1428/FUTURE_DS_01
+
+### 🔹 Task 2: Social Media Campaign Performance Analysis
+🔗 https://github.com/Vish1428/FUTURE_DS_02
+
+### 🔹 Task 3: College Event Feedback Analysis
+🔗 https://github.com/Vish1428/FUTURE_DS_03
+
+
 📊 College Event Feedback Analysis — Internship Project (Task 3)
 
 Future Interns — Data Science & Analytics Track (DS_03)
